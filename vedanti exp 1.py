@@ -1,7 +1,7 @@
 
 
 
-CALCULATOR PROGRAM
+CALCULATOR PROJECT
 
 
 
@@ -81,3 +81,9 @@ tk.Button(root, text="x³", width=5, height=2, command=cube).grid(row=5, column=
 
 # Run app
 root.mainloop()
+
+
+
+
+
+
