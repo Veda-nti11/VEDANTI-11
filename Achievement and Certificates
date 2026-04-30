@@ -1,3 +1,0 @@
-git add your-certificate.crt
-git commit -m "Add SSL certificate"
-git push origin main
